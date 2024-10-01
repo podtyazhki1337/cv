@@ -8,5 +8,5 @@ Feel free to reach out to me:
 
 - Email: [mayurovm@gmail.com](mailto:mayurovm@gmail.com)
 - LinkedIn: [Miroslav Maiurov](www.linkedin.com/in/miroslav-maiurov-ab7942243)
-- 
+
 - Thank you for visiting my portfolio!
