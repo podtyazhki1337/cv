@@ -16,5 +16,4 @@ while True:
     client.send(message.encode())
     response = client.recv(2048).decode()
     print(response)
-
 client.close()

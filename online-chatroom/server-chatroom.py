@@ -1,5 +1,4 @@
 import socket
-import select
 import sys
 from _thread import start_new_thread
 
