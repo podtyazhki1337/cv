@@ -1,0 +1,4 @@
+python -m cellpose --train   --dir /storage01/miroslavm/3d_segmentation_models/data_rat/cellpose_png/train   --mask_filter _cp_masks   --test_dir /storage01/miroslavm/3d_segmentation_models/data_rat/cellpose_png/val   --pretrained_model /storage01/miroslavm/3d_segmentation_models/data_rat/cellpose_png/train/models/rat_cellpose_model   --model_name rat_cellpose_model_resume   --save_every 50   --n_epochs 500 --min_train_masks 1  --use_gpu   --verbose
+
+
+python -m cellpose --train   --dir /NAS/mmaiurov/Datasets/Hela_MRC_cellpose/train   --mask_filter _cp_masks   --test_dir /NAS/mmaiurov/Datasets/Hela_MRC_cellpose/val   --pretrained_model cyto   --model_name hela_mrc   --save_every 50   --n_epochs 500 --min_train_masks 1  --use_gpu   --verbose
